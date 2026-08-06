@@ -1,0 +1,15 @@
+<svg width="1200" height="840" viewBox="0 0 1200 840" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="840" rx="48" fill="#121818"/>
+  <rect x="84" y="84" width="1032" height="672" rx="36" fill="#1A2322" stroke="#E0A15D" stroke-opacity="0.18"/>
+  <rect x="136" y="136" width="440" height="120" rx="26" fill="#22302E"/>
+  <rect x="136" y="286" width="920" height="86" rx="22" fill="#253533"/>
+  <rect x="136" y="400" width="280" height="280" rx="28" fill="#233130"/>
+  <rect x="438" y="400" width="280" height="280" rx="28" fill="#20302F"/>
+  <rect x="740" y="400" width="316" height="280" rx="28" fill="#253634"/>
+  <path d="M188 188H500" stroke="#63C4C0" stroke-width="16" stroke-linecap="round"/>
+  <path d="M176 450C226 430 272 446 322 420C370 394 420 382 492 396" stroke="#E0A15D" stroke-width="16" stroke-linecap="round"/>
+  <path d="M176 516C236 490 286 500 346 472C404 444 462 438 526 452" stroke="#63C4C0" stroke-width="16" stroke-linecap="round"/>
+  <path d="M176 584C244 560 300 570 360 544C430 512 488 504 544 518" stroke="#E0A15D" stroke-width="16" stroke-linecap="round"/>
+  <text x="136" y="744" fill="#DDECE9" font-family="Arial, sans-serif" font-size="28">Reusable assets, approval states, and launch previews</text>
+  <text x="136" y="72" fill="#F4F7F6" font-family="Arial, sans-serif" font-size="36" font-weight="700">Signal Library</text>
+</svg>

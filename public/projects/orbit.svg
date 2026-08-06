@@ -1,0 +1,16 @@
+<svg width="1200" height="840" viewBox="0 0 1200 840" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="840" rx="48" fill="#0E1414"/>
+  <rect x="80" y="80" width="1040" height="680" rx="38" fill="#151D1D" stroke="#63C4C0" stroke-opacity="0.16"/>
+  <rect x="124" y="124" width="952" height="74" rx="22" fill="#203030"/>
+  <rect x="124" y="224" width="350" height="488" rx="30" fill="#1D2929"/>
+  <rect x="500" y="224" width="576" height="230" rx="30" fill="#203131"/>
+  <rect x="500" y="482" width="576" height="230" rx="30" fill="#223433"/>
+  <circle cx="260" cy="372" r="92" stroke="#E0A15D" stroke-width="18"/>
+  <circle cx="260" cy="372" r="48" fill="#63C4C0" fill-opacity="0.3"/>
+  <path d="M592 302H1024" stroke="#63C4C0" stroke-width="16" stroke-linecap="round"/>
+  <path d="M592 366H920" stroke="#E0A15D" stroke-width="16" stroke-linecap="round"/>
+  <path d="M592 560H1024" stroke="#63C4C0" stroke-width="16" stroke-linecap="round"/>
+  <path d="M592 624H948" stroke="#E0A15D" stroke-width="16" stroke-linecap="round"/>
+  <text x="124" y="72" fill="#F4F7F6" font-family="Arial, sans-serif" font-size="36" font-weight="700">Orbit Finance</text>
+  <text x="124" y="742" fill="#D4E7E6" font-family="Arial, sans-serif" font-size="28">Zoom-safe tasks, clear exceptions, and calmer decisions</text>
+</svg>

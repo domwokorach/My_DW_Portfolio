@@ -1,0 +1,17 @@
+<svg width="1200" height="840" viewBox="0 0 1200 840" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="840" rx="48" fill="#101817"/>
+  <rect x="72" y="72" width="1056" height="696" rx="32" fill="#172322" stroke="#63C4C0" stroke-opacity="0.2"/>
+  <rect x="116" y="116" width="500" height="58" rx="18" fill="#243433"/>
+  <rect x="116" y="196" width="350" height="300" rx="28" fill="#20302F"/>
+  <rect x="596" y="196" width="540" height="300" rx="28" fill="#1B2928"/>
+  <rect x="116" y="530" width="1020" height="180" rx="28" fill="#223331"/>
+  <circle cx="182" cy="246" r="36" fill="#63C4C0" fill-opacity="0.2"/>
+  <circle cx="274" cy="246" r="36" fill="#E0A15D" fill-opacity="0.25"/>
+  <circle cx="366" cy="246" r="36" fill="#63C4C0" fill-opacity="0.35"/>
+  <path d="M160 430L230 372L296 394L360 330" stroke="#63C4C0" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M660 262H1060" stroke="#E0A15D" stroke-width="16" stroke-linecap="round"/>
+  <path d="M660 332H1016" stroke="#63C4C0" stroke-width="16" stroke-linecap="round"/>
+  <path d="M660 402H1102" stroke="#E0A15D" stroke-width="16" stroke-linecap="round"/>
+  <text x="116" y="64" fill="#EAF4F3" font-family="Arial, sans-serif" font-size="36" font-weight="700">Atlas Ops</text>
+  <text x="116" y="720" fill="#CDE7E5" font-family="Arial, sans-serif" font-size="28">Incident guidance, ranked alerts, and fast handoffs</text>
+</svg>

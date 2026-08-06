@@ -1,4 +1,4 @@
-# Claude Code Developer Portfolio
+# DW Portfolio
 
 This repository is a production-oriented developer portfolio starter built with Next.js App Router, React, TypeScript, local SVG project artwork, dynamic case-study routes, accessible navigation, SEO metadata, and a contact endpoint.
 
@@ -41,4 +41,3 @@ npm run build
 ## Environment
 
 Copy `.env.example` to `.env.local` and configure the Resend variables before enabling live contact delivery.
-# My_DW_Portfolio
